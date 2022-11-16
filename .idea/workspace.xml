@@ -3,13 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fb7200c1-7efb-403b-ba62-23795922de35" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/abstracts/_variables.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/base/_color.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/style/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/pages/_home.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,6 +67,7 @@
       <workItem from="1668110340295" duration="4074000" />
       <workItem from="1668324152704" duration="29000" />
       <workItem from="1668439881367" duration="603000" />
+      <workItem from="1668631959258" duration="1199000" />
     </task>
     <servers />
   </component>
