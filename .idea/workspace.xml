@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="fb7200c1-7efb-403b-ba62-23795922de35" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/main.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/abstracts/_mixins.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/abstracts/_variables.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/base/_reset.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/base/_reset.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/base/_typography.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/components/_buttons.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/layout/_footer.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/layout/_footer.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/layout/_grid.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/layout/_grid.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/layout/_header.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/layout/_header.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/layout/_navigation.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/layout/_navigation.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/pages/_contact.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/pages/_contact.sass" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/style/pages/_home.sass" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +51,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;watcher.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -68,6 +80,8 @@
       <workItem from="1668324152704" duration="29000" />
       <workItem from="1668439881367" duration="603000" />
       <workItem from="1668631959258" duration="1199000" />
+      <workItem from="1669575365483" duration="60000" />
+      <workItem from="1670536955984" duration="3058000" />
     </task>
     <servers />
   </component>
